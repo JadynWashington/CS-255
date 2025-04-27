@@ -3,6 +3,7 @@ An overview of CS-255
 
 
 1.Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
 DriverPass offers an improved solution for student drivers to prepare for their written driving exams and book sessions to practice for their road tests. They aimed to develop a website where users can create accounts, buy study packages, complete practice exams online, and schedule driving practice appointments. Additionally, DriverPass employees must be able to assist by purchasing packages and setting up appointments on behalf of customers.
 
 
